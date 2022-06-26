@@ -1,2 +1,2 @@
 # nma_computation
- NMA  Computational Neuroscience Course
+ NMA Computational Neuroscience Course 
